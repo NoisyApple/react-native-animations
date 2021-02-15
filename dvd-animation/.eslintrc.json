@@ -21,6 +21,7 @@
   "rules": {
     "quotes": 0,
     "@typescript-eslint/explicit-module-boundary-types": 0,
-    "react-native/no-inline-styles": 0
+    "react-native/no-inline-styles": 0,
+    "prettier/prettier": 0
   }
 }
